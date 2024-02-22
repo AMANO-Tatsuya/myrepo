@@ -7,3 +7,4 @@ A line I wrote on my local computer
 This is another line from RStudio
 
 This is another line directly edited
+Another line I wrote on my local computer
